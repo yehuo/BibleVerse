@@ -20,3 +20,5 @@ jobs:
         with:
           input_files: '[["README.md"]]'
           output_files: '["index.bkp.html"]'
+          template: '["template.html"]'
+          builtin_stylesheet: 'style.css'
